@@ -1,2 +1,2 @@
-# snippets
+# Snippets
 Snippets Master Data Science
